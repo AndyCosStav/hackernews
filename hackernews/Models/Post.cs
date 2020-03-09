@@ -4,6 +4,7 @@ using System.Text;
 
 namespace hackernews.Models
 {
+    //created a model relevant to the properties I must capture
     public class Post
     {
         public string Title { get; set; }
