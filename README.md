@@ -1,6 +1,6 @@
 # Hackernews web scraping app
 
-This command line app has been developer used .Net Core and C#. 
+This command line app has been developer used .Net Core C#, and unit tests are written using xUnit. 
 
 
 # Libraries used
