@@ -10,5 +10,5 @@ This command line app has been developer used .Net Core C#, and unit tests are w
 
 # To Run
 
-* cd hackernews.exe/bin/Debug 
+* cd hackernews.exe/bin/Debug/netcoreapp3.1
 * enter 'hackernews.exe --post n' (n refers to the number of posts you want to gather, e.g 'hackernews.exe --post 10'
