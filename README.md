@@ -1,4 +1,4 @@
-# hackernews web scraping app
+# Hackernews web scraping app
 
 This command line app has been developer used .Net Core and C#. 
 
